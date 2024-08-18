@@ -18,12 +18,15 @@ MailV4l1d8r is a powerful and efficient email validation tool designed to identi
 
 To run the tool, simply execute the following command in your terminal:
 
-```bash
+\```bash
 python email_check.py
+\```
 
 You will be prompted to enter an email address, and the tool will perform a series of checks to validate the email.
 
-Example Output
+## Example Output
+
+\```bash
 Enter the email address: example@example.com
 
 Checking disposable email: 100%|███████████████████████████████████| 5/5 [00:10<00:00,  2.16s/it]
@@ -45,4 +48,12 @@ SSL Certificate Check: SSL certificate found for https://example.com
 
 --- Final Result ---
 Not Disposable
+\```
 
+## Contributing
+
+Contributions are welcome! If you have any suggestions or improvements, feel free to open an issue or submit a pull request.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
