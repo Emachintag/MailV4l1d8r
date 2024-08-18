@@ -46,5 +46,3 @@ SSL Certificate Check: SSL certificate found for https://example.com
 --- Final Result ---
 Not Disposable
 
-Contributing
-Contributions are welcome! If you have any suggestions or improvements, feel free to open an issue or submit a pull request.
