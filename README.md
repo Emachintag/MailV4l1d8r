@@ -19,7 +19,7 @@ MailV4l1d8r is a powerful and efficient email validation tool designed to identi
 To run the tool, simply execute the following command in your terminal:
 
 ```bash
-python email_check.py
+python MailV4l1d8r.py
 ```
 
 You will be prompted to enter an email address, and the tool will perform a series of checks to validate the email.
