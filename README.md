@@ -21,7 +21,7 @@ To install and use MailV4l1d8r, follow these steps:
 1. **Clone the repository**:
 
     ```bash
-    git clone https://github.com/yourusername/MailV4l1d8r.git
+    git clone https://github.com/emachintag/MailV4l1d8r.git
     ```
 
 2. **Navigate to the project directory**:
@@ -33,7 +33,7 @@ To install and use MailV4l1d8r, follow these steps:
 3. **Run the tool**:
 
     ```bash
-    python email_check.py
+    python MailV4l1d8r.py
     ```
 
 The tool will automatically check for required dependencies and install them if they are not already installed.
