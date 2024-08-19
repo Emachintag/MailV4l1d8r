@@ -16,11 +16,6 @@ MailV4l1d8r is a powerful and efficient email validation tool designed to identi
 
 ## Usage
 
-```bash
-pip install python-whois
-
-```
-
 To run the tool, simply execute the following command in your terminal:
 
 ```bash
@@ -37,11 +32,11 @@ Enter the email address: example@example.com
 Checking disposable email: 100%|███████████████████████████████████| 5/5 [00:10<00:00,  2.16s/it]
 
 --- Disposable Email Check ---
-https://open.kickbox.com/v1/disposable/example@example.com: Not Disposable
-https://api.mailcheck.ai/email/example@example.com: Not Disposable
-https://isitarealemail.com/api/email/validate?email=example@example.com: Not Disposable
-https://checkmail.disify.com/api/email/example@example.com: Not Disposable
-https://www.validator.pizza/email/example@example.com: Not Disposable
+Kickbox: Not Disposable
+MailCheck: Not Disposable
+IsItRealEmail: Not Disposable
+Disify: Not Disposable
+ValidatorPizza: Not Disposable
 
 --- Additional Checks ---
 Email Format & Numeric Check: Valid format and non-numeric local part
@@ -50,6 +45,9 @@ Forbidden Word Check: No forbidden words
 DNS Records Check: DNS records found
 Domain Age Check: Domain is older than 1 year
 SSL Certificate Check: SSL certificate found for https://example.com
+
+--- Final Result ---
+Not Disposable
 
 --- Final Result ---
 Not Disposable
