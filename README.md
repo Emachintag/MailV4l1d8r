@@ -14,6 +14,31 @@ MailV4l1d8r is a powerful and efficient email validation tool designed to identi
 - **User-Friendly Interface**: Includes a visually appealing terminal banner and progress bars.
 - **Error Handling**: Gracefully handles errors, such as WHOIS lookup failures, without interrupting the overall validation process.
 
+## Installation
+
+To install and use MailV4l1d8r, follow these steps:
+
+1. **Clone the repository**:
+
+    ```bash
+    git clone https://github.com/yourusername/MailV4l1d8r.git
+    ```
+
+2. **Navigate to the project directory**:
+
+    ```bash
+    cd MailV4l1d8r
+    ```
+
+3. **Run the tool**:
+
+    ```bash
+    python email_check.py
+    ```
+
+The tool will automatically check for required dependencies and install them if they are not already installed.
+
+
 ## Usage
 
 To run the tool, simply execute the following command in your terminal:
