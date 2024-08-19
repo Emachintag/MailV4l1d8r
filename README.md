@@ -16,6 +16,11 @@ MailV4l1d8r is a powerful and efficient email validation tool designed to identi
 
 ## Usage
 
+```bash
+pip install python-whois
+
+```
+
 To run the tool, simply execute the following command in your terminal:
 
 ```bash
